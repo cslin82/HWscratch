@@ -1,0 +1,22 @@
+{
+  "name": "hwscratch",
+  "version": "1.0.0",
+  "description": "Scratch space for homeworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cslin82/HWscratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cslin82/HWscratch/issues"
+  },
+  "homepage": "https://github.com/cslin82/HWscratch#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
