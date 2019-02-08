@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/cslin82/HWscratch#readme",
   "dependencies": {
-    "request": "^2.85.0"
+    "boom": "^7.3.0",
+    "hawk": "^7.0.10",
+    "hoek": "^5.0.4",
+    "request": "^2.88.0",
+    "sntp": "^3.0.2"
   }
 }
